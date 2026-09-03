@@ -112,4 +112,5 @@ void LCD_voidWriteNumber(s32 num)
 		i--;
 		LCD_sendChar(arr[i]);
 	}
+
 }
